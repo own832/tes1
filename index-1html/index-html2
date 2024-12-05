@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="this is my website">
+        <title> own website</title>
+
+    </head>
+    <body style="background-color:green">
+        <h1 style="color:blue; background-color:black">own website</h1>
+    </br><hr/>
+        <h2 style="color:red; background-color:aqua">hello world</h2>
+        <h3 style="color :yellow; background-color:purple">I hope you are good</h3>
+        <h4>nice job</h4>
+        <h5>enjoy the website</h5>
+        <h6>finish</h6>
+        <hr/><hr/>
+        <!-- here i will make a link in html-->
+         <a href="https://www.google.com"><h3 style ="color:red;">you will go to google if you click</h3></a>
+         <!-- here is another link in html-->
+          <a href="https://www.google.com" target="_blank"><h3 style="color:orange;">if you click this link you will go to another app</h3></a>
+
+        <p><big>this</big> <small>is</small> my <b>first paragraph</b></p>
+        <p><small>how</small> <big>are</big> you world</p>
+        <p>how are you <b><i>bigworld</b></i></p>
+        <p>how are you <i>world</i></p>
+        <p> H2o</p>
+        <p> H<sub>2</sub>o</p>
+        <p>102</p>
+        <p>10<sup>2</sup></p>
+        <!-- this is how you can make comments in html-->
+         <!-- and here i will start upload images-->
+          <p><h2>what is that !!!!</h2></p>
+          <p><h3>nothing to be worry about its just shreak</h3></p>
+          <img width="1000" hight="1000" src="https://www.rollingstone.com/wp-content/uploads/2024/04/enduring-appeal-of-shrek.jpg?w=1581&h=1054&crop=1" alt="shrake is smileing" />
+        <!-- here i will do a link image-->
+         <a href="https://hips.hearstapps.com/hmg-prod/images/navy-nuclear-test-bikini-atoll-marshall-islands-royalty-free-image-1646247174.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"><h1>just click on the image dont think</h1>
+        <img width="500" hight="500" src="https://st4.depositphotos.com/22295624/23939/i/1600/depositphotos_239391956-stock-photo-red-button-click-text.jpg" alt="you have lived"/>
+        </a>
+        <!-- here i will upload a video-->
+        
+        <!-- here I will do a list-->
+         <ul>
+            <li>list1</li>
+            <li>list2</li>
+            <li>list3</li>
+         </ul>
+         <ol>
+            <li>list1
+                <ol>
+                    <li>item1</li>
+                    <li>item2</li>
+                    <li>item3</li>
+                </ol>
+            </li>
+            <li>list2</li>
+            <li>list3</li>
+         </ol>
+         <ol type="A">
+            <li>list1</li>
+            <li>list2</li>
+            <li>list3</li>
+         </ol>
+         <ol type="I">
+            <li>list1</li>
+            <li>list2</li>
+            <li>list3</li>
+            <li>list4</li>
+            <li>list5</li>
+         </ol>
+         <dl>
+            <dt>apples</dt>
+            <dd>-they are red</dd>
+            <dt>oranges</dt>
+            <dd>-they are orange</dd>
+         </dl>
+         <!-- here i will start a tabels-->
+          <table>
+            <caption><h2>a lot of tabels</h2></caption>
+            <tr>
+                <th>num1</th>
+                <th>num2</th>
+                <th>num3</th>
+            </tr>
+            <tr>
+                <td colspan="2">row1</td>
+                <td>row11</td>
+                <td>row111</td>
+            </tr>
+            <tr>
+                <td colspan="3">row2</td>
+                <td>row22</td>
+                <td>row222</td>
+            </tr>
+          </table>
+          <!-- here i will start the div and span-->
+           <span>num1</span>
+           <span>num2</span>
+           <span>num3</span>
+           <div>num4</div>
+           <div>num5</div>
+           <div>num6</div>
+           <!-- here I will start input and output-->
+            <input type="text" value="enter your name"/>
+            <input type="password"/>
+
+            <textarea rows="5" cols="20">
+
+
+            </textarea>
+            <input type="time"/>
+            <input type="range"/>
+            <!-- here will start the iframe-->
+             <iframe src="https://www.google.com" width="500" height="500" >sorry</iframe>
+    </body>
+
+</html>
